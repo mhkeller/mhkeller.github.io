@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/mhkeller
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mhkeller.com
+  * I am mhkeller (https://keybase.io/mhkeller) on keybase.
+  * I have a public key ASB0OSFrnFF7g4pH9KGZL66qEGevF_sPvBkdHH9o9gxC6Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012022f93868d6584931a246ed3772bf46417afe506bfa792c1b819f30afce1007d80a",
+      "host": "keybase.io",
+      "kid": "01207439216b9c517b838a47f4a1992faeaa1067af17fb0fbc191d1c7f68f60c42e90a",
+      "uid": "3baef29b74bd34c015e9cd90dee87319",
+      "username": "mhkeller"
+    },
+    "merkle_root": {
+      "ctime": 1521655589,
+      "hash": "3ef0bd9c6fde553a2ef281531910c539ecade48e747bb5b247214b8f7e4ff060cca7cfb4feec027ce4d96e71a1ca409a5e022d0aaf378c73e2aae9ea34742b3a",
+      "hash_meta": "848c68df2784b4ee2b3442b51e7b026a7630c16d285466d27342f2c5a8c1a14c",
+      "seqno": 2267834
+    },
+    "service": {
+      "hostname": "mhkeller.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1521655604,
+  "expire_in": 504576000,
+  "prev": "b71b9f913ff479d41a2fac8bf1797d59771f041fe5b1ce01bec863bb3cb7e15e",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgdDkha5xRe4OKR/ShmS+uqhBnrxf7D7wZHRx/aPYMQukKp3BheWxvYWTFA0R7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMjJmOTM4NjhkNjU4NDkzMWEyNDZlZDM3NzJiZjQ2NDE3YWZlNTA2YmZhNzkyYzFiODE5ZjMwYWZjZTEwMDdkODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNzQzOTIxNmI5YzUxN2I4MzhhNDdmNGExOTkyZmFlYWExMDY3YWYxN2ZiMGZiYzE5MWQxYzdmNjhmNjBjNDJlOTBhIiwidWlkIjoiM2JhZWYyOWI3NGJkMzRjMDE1ZTljZDkwZGVlODczMTkiLCJ1c2VybmFtZSI6Im1oa2VsbGVyIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTIxNjU1NTg5LCJoYXNoIjoiM2VmMGJkOWM2ZmRlNTUzYTJlZjI4MTUzMTkxMGM1MzllY2FkZTQ4ZTc0N2JiNWIyNDcyMTRiOGY3ZTRmZjA2MGNjYTdjZmI0ZmVlYzAyN2NlNGQ5NmU3MWExY2E0MDlhNWUwMjJkMGFhZjM3OGM3M2UyYWFlOWVhMzQ3NDJiM2EiLCJoYXNoX21ldGEiOiI4NDhjNjhkZjI3ODRiNGVlMmIzNDQyYjUxZTdiMDI2YTc2MzBjMTZkMjg1NDY2ZDI3MzQyZjJjNWE4YzFhMTRjIiwic2Vxbm8iOjIyNjc4MzR9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibWhrZWxsZXIuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC40NSJ9LCJjdGltZSI6MTUyMTY1NTYwNCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJiNzFiOWY5MTNmZjQ3OWQ0MWEyZmFjOGJmMTc5N2Q1OTc3MWYwNDFmZTViMWNlMDFiZWM4NjNiYjNjYjdlMTVlIiwic2Vxbm8iOjE2LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQONTd0ohPLtxYB4oo/21BD6UTEJdSoYznFTjINAytvL2URZzxxgOilXDQaLtY8VbqWlndjyYACMVgBtsYNQcRgioc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAnRLWuxUCLzTlg2uWJnMh6k3EMQ+ekQEGTIzO0yuaE/KN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mhkeller
+
+==================================================================
